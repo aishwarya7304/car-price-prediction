@@ -1,15 +1,4 @@
 # Car Price Prediction
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
-
-
-### Instructions:
-1. **Project Overview**: A brief description of the project, its goal, and the improvement in the R² score.
-2. **Dataset**: A short note on the dataset used.
-3. **Models Used**: List the models applied in the project.
-4. **Results**: Highlight the improvement in the model's performance.
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
