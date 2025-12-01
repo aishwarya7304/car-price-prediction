@@ -22,6 +22,3 @@ The dataset consists of 6000 data points, each representing a car with various a
 ## Results
 
 Through iterative training and optimization, the R² score of our models was improved from an initial 75% to a final 93%. This significant improvement demonstrates the effectiveness of feature engineering and model selection.
-
-
-# car-price-prediction
